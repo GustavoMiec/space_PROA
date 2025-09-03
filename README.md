@@ -53,15 +53,7 @@ Você pode entrar em contato com Gustavo Costa através das redes abaixo:
 
 ---
 
-## Telas do Portfólio
 
-### Seção Hero
-![Hero Section](img/astronaut.png)
-
-### Seção Sobre
-![About Section](img/miladicode.png)
-
----
 
 > Portfólio feito com 💜 por Gustavo Costa
 
